@@ -1,2 +1,2 @@
 # star-wars-challenge
-javascript challenge
+javascript challenge, plunker here: plnkr.co/XrbxEG/
