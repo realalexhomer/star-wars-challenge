@@ -22,3 +22,6 @@ I still think its a decent example that I understand:
 I am in the process of creating a new portfolio website, and am going to be creating a scaffold for a modern JS site soon.
 
 The code for the new blog is here: https://github.com/realalexhomer/personal_site
+
+Thanks for looking!
+Alex
